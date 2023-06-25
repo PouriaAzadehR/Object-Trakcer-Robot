@@ -12,7 +12,7 @@ This project implements an object tracking system for a Turtlebot3 robot using t
 
 1. Clone the project repository:
    ```
-   git clone <repository_url>
+   git clone <https://github.com/PouriaAzadehR/Object-Trakcer-Robot.git>
    ```
 
 2. Install the required dependencies:
