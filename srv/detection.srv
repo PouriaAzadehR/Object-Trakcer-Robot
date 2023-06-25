@@ -1,0 +1,9 @@
+string label
+---
+bool exists
+float64 pos_x_in_pic
+float64 pos_y_in_pic
+float64 bb_width
+float64 bb_height
+float64 pic_width
+float64 pic_height
