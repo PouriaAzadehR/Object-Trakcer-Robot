@@ -1,8 +1,7 @@
-# Object-Trakcer-Robot
-
 # Turtlebot3 Object Tracker
 
 This project implements an object tracking system for a Turtlebot3 robot using the YOLO (You Only Look Once) algorithm. The system can detect and track objects of interest in real-time using a camera mounted on the robot. The project consists of two main components: `image_processor` and `controller`.
+
 ![ezgif-1-80f7319f72](https://github.com/PouriaAzadehR/Object-Trakcer-Robot/assets/93463377/eeda6ef1-fa9d-4701-8fed-3313e0fcf594)
 ## Prerequisites
 - Ubuntu OS
